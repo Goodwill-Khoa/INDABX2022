@@ -1,6 +1,6 @@
 # INDABX2022
 Repo For the Group 3 indabax
-
+Please read the AIHACKERS Presentation for full description
 
 # Information
 This project was 90% complete

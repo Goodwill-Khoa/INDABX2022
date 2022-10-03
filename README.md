@@ -18,8 +18,8 @@ This project was 90% complete
 ### 1. training.py first
 ### 2. recognize.py
 
-## To Add tata please
+## To Add data please
 
 upload photos into the database with folder name = the person name
 
-Then re run training and  recognize
+Then re-run training and  recognize

@@ -12,7 +12,7 @@ This project was 90% complete
 # Instructions
  
  You can run the Facial Recog.py to do the facial emotion test
- to run the Facail recognition chnage directory to 
+ to run the Facial recognition chnage directory to 
  ## cd Face_reco
  and run the
 ### 1. training.py first
